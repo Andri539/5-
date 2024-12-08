@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\apres\\OneDrive\\Desktop\\5.0.1.1\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F700840-4D92-488A-94CC-BA88E98FB23F}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\apres\\OneDrive\\Desktop\\5.0.1.1\\Project1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F700840-4D92-488A-94CC-BA88E98FB23F}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4F86EFD-82B4-4156-B9A4-83EAC33AEF0A}|Project1\\Project1.vcxproj|C:\\Users\\apres\\OneDrive\\Desktop\\5.0.1.1\\Project1\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E4F86EFD-82B4-4156-B9A4-83EAC33AEF0A}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\apres\\OneDrive\\Desktop\\5.0.1.1\\Project1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\apres\\OneDrive\\Desktop\\5.0.1.1\\Project1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T12:38:07.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\apres\\OneDrive\\Desktop\\5.0.1.1\\Project1\\Project1\\Source.cpp",
               "RelativeDocumentMoniker": "Project1\\Source.cpp",
